@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="22px" viewBox="0 0 32 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile" transform="translate(-150.000000, -55.000000)" stroke="#FFFFFF" stroke-width="0.5">
+            <g id="Group-2" transform="translate(127.000000, 32.000000)">
+                <g id="Group-3" transform="translate(22.000000, 21.000000)">
+                    <path d="M5.12582805,2.87055659 C5.12537951,2.87051709 5.12537951,2.87051709 5.12493093,2.87047795 C4.71227822,2.83455285 4.34863405,3.13995092 4.31270895,3.55260363 L3.47081517,13.2229942 C3.44179347,13.5563512 3.637115,13.8686063 3.94956856,13.9883641 L17.0399588,19.0056703 C17.170341,19.0556434 17.3120849,19.0682267 17.4492315,19.0420036 C17.8560749,18.964213 18.1228248,18.5713396 18.0450342,18.1644963 L15.3987303,4.32437434 C15.3357728,3.995108 15.0619533,3.74760734 14.7280205,3.71813146 L5.12582805,2.87055659 Z" id="Rectangle" transform="translate(10.763263, 10.961470) rotate(-22.000000) translate(-10.763263, -10.961470) "></path>
+                    <path d="M11.0841672,0.824171636 L11.0841672,20.5882106" id="Line" stroke-linecap="square" transform="translate(11.084167, 10.706191) rotate(-62.000000) translate(-11.084167, -10.706191) "></path>
+                    <path d="M26.8289627,12.8311514 C28.2592052,17.8795782 20.0015789,21.6734761 27.3317673,26.8994369" id="Line-Copy" stroke-linecap="square" transform="translate(25.793282, 19.865294) rotate(-62.000000) translate(-25.793282, -19.865294) "></path>
+                    <path d="M1.54899429,9.45420164 L15.6795827,9.45420164" id="Line-2" stroke-linecap="square" transform="translate(8.614288, 9.454202) rotate(-62.000000) translate(-8.614288, -9.454202) "></path>
+                    <path d="M21.9588634,16.9606207 L24.3711901,17.3648882" id="Line-2-Copy" stroke-linecap="square" transform="translate(23.567081, 17.364888) rotate(-62.000000) translate(-23.567081, -17.364888) "></path>
+                    <path d="M24.2277756,21.310243 L27.0110797,20.7537318" id="Line-2-Copy-2" stroke-linecap="square" transform="translate(25.619428, 21.031987) rotate(-62.000000) translate(-25.619428, -21.031987) "></path>
+                    <path d="M27.6038023,22.8720566 L29.9530418,22.8720566" id="Line-2-Copy-3" stroke-linecap="square" transform="translate(28.778422, 22.872057) rotate(-62.000000) translate(-28.778422, -22.872057) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
