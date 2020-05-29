@@ -10,7 +10,7 @@
         "build": "gatsby build --prefix-paths",
         "develop": "npm run clean && gatsby develop",
         "format": "prettier --write \"{gatsby-*.js,src/**/*.js}\"",
-        "deploy": "./node_modules/.bin/gatsby build --prefix-paths && gh-pages -d public"
+        "deploy": "./node_modules/.bin/gatsby build --prefix-paths && gh-pages -b master -d public"
     },
     "repository": {
         "type": "git",
