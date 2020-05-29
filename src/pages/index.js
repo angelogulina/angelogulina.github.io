@@ -56,7 +56,7 @@ export default () => (
       <li className={styles.me__contact}>
         <a
           rel="noopener noreferrer"
-          href="https://twitter.com/AngeloGulina"
+          href="https://twitter.com/angelogulina"
           target="_blank">
                     twitter
         </a>
@@ -64,7 +64,7 @@ export default () => (
       <li className={styles.me__contact}>
         <a
           rel="noopener noreferrer"
-          href="https://www.instagram.com/AngeloGulina/"
+          href="https://www.instagram.com/angelogulina/"
           target="_blank">
                     instagram
         </a>

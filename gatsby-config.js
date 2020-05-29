@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: '/angelogulina.github.io',
+  // pathPrefix: 'angelogulina.github.io/',
   plugins: [
     {
       resolve: 'gatsby-plugin-favicon',
