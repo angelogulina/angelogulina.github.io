@@ -70,7 +70,7 @@ export default () => (
         </a>
       </li>
       <li className={styles.me__contact}>
-        <a rel="noopener noreferrer" href="mailto:me[@]angelogulina.it">
+        <a rel="noopener noreferrer" href="mailto:write[@]angelogulina.dev">
                     mail
         </a>
       </li>
